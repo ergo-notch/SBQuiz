@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">SB-Quiz</string>
+
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="loading">Cargando…</string>
+    <string name="title_login">Iniciar sesión</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="start_session">Iniciar sesión</string>
+    <string name="menu_option_home">Home</string>
+    <string name="menu_option_second">Mis promos</string>
+    <string name="menu_option_profile">Perfil</string>
+
+    <string name="see_promo">Ver</string>
+    <string name="title_promos_list">Promociones</string>
+    <string name="lastName">Apellidos</string>
+    <string name="user_name">Nombre</string>
+    <string name="phoneNumber">Teléfono</string>
+    <string name="save">Guardar</string>
+    <string name="description">Características</string>
+    <string name="restrictions">Restricciones</string>
+    <string name="title_add_promo">Nueva promoción</string>
+    <string name="message_add_promo">Puedes agregar hasta 3 imágenes de tu nueva promoción</string>
+    <string name="rating">Puntuar</string>
+    <string name="search_promos">Buscar promociones</string>
+    <string name="promo_restrictions">Aplican restricciones</string>
+    <string name="close_session">Cerrar sesión</string>
+    <string name="permission_denied_alert">Es necesario autorizar permisos para agregar imágenes</string>
+    <string name="menu_option_images">Imágenes</string>
+    <string name="menu_option_music">Reproductor</string>
+    <string name="menu_option_users">Usuarios</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_lastName">Apellidos</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_description">Cuéntanos mas sobre ti...</string>
+    <string name="menu_option_map">Mapa</string>
+    <string name="menu_option_list">Lista</string>
+    <string name="total">Total de bicicletas</string>
+    <string name="slots">Espacios</string>
+    <string name="bikes">Bicicletas</string>
+    <string name="api_key_google_maps">AIzaSyAdPP2lqVGP2nXuNfuxTeGrxHexV2lVTUk</string>
+    <string name="message_permission_denied">Debe aceptar los permisos para continuar.</string>
+    <string name="distance">Distancia</string>
+</resources>
